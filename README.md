@@ -1,2 +1,2 @@
-#Bootstrap5
-Website toko online sederhana
+# Website sedehana
+Toko online sedehana menggunakan bootstrap 5
